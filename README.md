@@ -13,6 +13,8 @@
    <b><em>GitHub Stats:</em></b> <br/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=helexander" alt="GitHub Stats" /> <br/><br/>
   </p>
+</div>
+<div>
   <p align="center">
    <b><em>GitHub Activity:</em></b> <br/>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helexander" />
