@@ -8,15 +8,15 @@
 ---
 
 <h2 align="center"> GitHub Statistics & Activity </h2>
-<div align="center">
-   <b><em>GitHub Stats:</em></b> <br/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=helexander" alt="GitHub Stats" /><br/>
-</div>
+   <div align="center">
+      <b><em>GitHub Stats:</em></b> <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=helexander" alt="GitHub Stats" /><br/>
+   </div>
 
-<!-- <div align="center">
-   <b><em>GitHub Activity:</em></b> <br/>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helexander" /><br/>
-</div> -->
+   <div align="center">
+      <b><em>GitHub Activity:</em></b> <br/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helexander" /><br/>
+   </div>
 
 ---
 
