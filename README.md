@@ -1,10 +1,9 @@
 <h1 align="center"> Hey friend <span><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></span> I'm Jeremy </h1>
-
 - 🔭 I’m currently working on Frontend Web Development.
 - 🌱 I’m currently upskilling in React JS.
 - 👯 I’m looking to collaborate with Fullstack Web and iOS Developers.
 - ⚡ Fun fact: I'm a lefty ✋
-
+---
 <h2 align="center"> GitHub Statistics & Activity </h2>
 <div>
   <p align="center">
@@ -16,9 +15,7 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helexander" />
   </p>
 </div>
-
 ---
-
 <h2 align="center"><u><b>My Toolbox</b></u></h2>
 <h2 align="center">Frontend</h2>
   <p align="center">
@@ -41,7 +38,7 @@
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/> 
     </a>
   </p>
-
+---
 <h2 align="center">Backend</h2>
   <p align="center">
     <a href="https://www.java.com" target="_blank"> 
@@ -63,14 +60,14 @@
       <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="express" />
     </a>
   </p>
-  
+---  
 <h2 align="center>Databases</h2>
   <p align="center">
     <a href="https://www.mysql.com" target="_blank">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     </a>
   </p>
-  
+---
 <h2 align="center>Cloud & Hosting</h2>
   <p align="center">
     <a href="https://firebase.google.com" target="_blank">
@@ -83,7 +80,7 @@
       <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
     </a>   
   </p>
-                                                                                                                     
+---                                                                                                                     
 <h2 align="center">Testing</h2>
   <p align="center">
   <a href="https://junit.org/junit5/" target="_blank"> 
@@ -94,7 +91,6 @@
   </a>
   </p>
 ----
-
 <h2 align="center">Let's Connect!</h2>
 <p align="center">
   <a href="https://linkedin.com/in/jeremy-chee" target="_blank">
