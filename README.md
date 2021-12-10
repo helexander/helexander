@@ -8,15 +8,18 @@
 
 ---
 
-<h2 align="center"> GitHub Statistics</h2>
+<details>
+   <summary><h2 align="center"> GitHub Statistics</h2></summary>
    <div align="center">
       <b><em>GitHub Stats:</em></b> <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=helexander" alt="GitHub Stats" /><br/>
    </div>
+</details>
    
 ---
 
-<h2 align="center"><u><b>Languages</b></u></h2>
+<details>
+   <summary><h2 align="center">Languages</h2></summary>
 <h3 align="center">Frontend</h3>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
@@ -90,6 +93,7 @@
     <img src="https://img.shields.io/badge/jest-907F7F.svg?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/> 
   </a>
   </p>
+</details>
   
 ---
 
