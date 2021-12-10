@@ -1,8 +1,8 @@
 <h1 align="center"> Hey friend <span><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></span> I'm Jeremy </h1>
 
-<!--
-**helexander/helexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 🌱 I’m currently upskilling in: React JS
+- 👯 I’m looking to collaborate with Fullstack Web and iOS Developers.
+- ⚡ Fun fact: I'm a lefty!
 
 <h2 align="center"> GitHub Statistics & Activity </h2>
 
