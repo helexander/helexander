@@ -60,7 +60,7 @@
     </a>
   </p>
   
-<h2 align="center>Databases</h2>
+<h2 align="center">Databases</h2>
   <p align="center">
     <a href="https://www.mysql.com" target="_blank">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
