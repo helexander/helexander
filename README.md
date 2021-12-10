@@ -1,11 +1,10 @@
 <h1 align="center"> Hey friend <span><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></span> I'm Jeremy </h1>
-<h3>Thanks for dropping by!</h3>
 
 <!--
 **helexander/helexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## GitHub Statistics & Acitivity:
+<h2 align="center"> GitHub Statistics & Activity </h2>
 
 <div>
   <p align="center">
