@@ -42,8 +42,6 @@
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/> 
     </a>
   </p>
-  
----
 
 <h2 align="center">Backend</h2>
   <p align="center">
@@ -67,7 +65,6 @@
     </a>
   </p>
   
---- 
 
 <h2 align="center>Databases</h2>
   <p align="center">
@@ -75,8 +72,6 @@
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     </a>
   </p>
-                                                                                                                     
----
                                                                                                                      
 <h2 align="center>Cloud & Hosting</h2>
   <p align="center">
