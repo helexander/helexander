@@ -9,7 +9,7 @@
 ---
 
 <details>
-   <summary><h2 align="center"> GitHub Statistics</h2></summary>
+   <summary>GitHub Statistics 📊</summary>
    <div align="center">
       <b><em>GitHub Stats:</em></b> <br/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=helexander" alt="GitHub Stats" /><br/>
@@ -19,7 +19,7 @@
 ---
 
 <details>
-   <summary><h2 align="center">Languages</h2></summary>
+   <summary>Languages 💻</summary>
 <h3 align="center">Frontend</h3>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
