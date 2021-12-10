@@ -16,7 +16,7 @@
 ---
 
 <h2 align="center"><u><b>My Toolbox</b></u></h2>
-<h2 align="center">Frontend</h2>
+<h3 align="center">Frontend</h3>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> 
@@ -38,7 +38,7 @@
     </a>
   </p>
 
-<h2 align="center">Backend</h2>
+<h3 align="center">Backend</h3>
   <p align="center">
     <a href="https://www.java.com" target="_blank"> 
       <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
@@ -60,14 +60,14 @@
     </a>
   </p>
   
-<h2 align="center">Databases</h2>
+<h3 align="center">Databases</h3>
   <p align="center">
     <a href="https://www.mysql.com" target="_blank">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     </a>
   </p>
                                                                                                                      
-<h2 align="center">Cloud & Hosting</h2>
+<h3 align="center">Cloud & Hosting</h3>
   <p align="center">
     <a href="https://firebase.google.com" target="_blank">
       <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Google Firebase" />
@@ -80,7 +80,7 @@
     </a>   
   </p>
 
-<h2 align="center">Testing</h2>
+<h3 align="center">Testing</h3>
   <p align="center">
   <a href="https://junit.org/junit5/" target="_blank"> 
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
