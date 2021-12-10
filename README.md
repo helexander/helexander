@@ -12,39 +12,33 @@
    <b><em>GitHub Stats:</em></b> <br/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=helexander" alt="GitHub Stats" /> <br/><br/>
   </p>
-   
   <p align="center">
    <b><em>GitHub Activity:</em></b> <br/>
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helexander" />
   </p>
 </div>
 
-----
+---
 
-## My Toolbox
+<h2 align="center"><u><b>My Toolbox</b></u></h2>
 
 <h2 align="center">Frontend</h2>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> 
     </a>
-    
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/> 
     </a>
-  
     <a href="https://sass-lang.com" target="_blank"> 
       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass"/> 
     </a>
-  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/> 
     </a>
-  
     <a href="https://reactjs.org/" target="_blank"> 
       <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="react"/> 
     </a>
-  
     <a href="https://reactnative.dev" target="_blank"> 
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/> 
     </a>
