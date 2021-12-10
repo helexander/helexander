@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I'm a lefty ✋
 
 <h2 align="center"> GitHub Statistics & Activity </h2>
-
 <div>
   <p align="center">
    <b><em>GitHub Stats:</em></b> <br/>
@@ -21,7 +20,6 @@
 ---
 
 <h2 align="center"><u><b>My Toolbox</b></u></h2>
-
 <h2 align="center">Frontend</h2>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
