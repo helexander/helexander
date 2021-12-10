@@ -22,11 +22,6 @@
 
 ## My Toolbox
 
-<a href="" target="_blank"> 
-    <img src=""
-      alt=""/> 
-  </a>
-
 <h2 align="center">Frontend</h2>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
