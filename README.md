@@ -42,7 +42,9 @@
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-native"/> 
     </a>
   </p>
+  
 ---
+
 <h2 align="center">Backend</h2>
   <p align="center">
     <a href="https://www.java.com" target="_blank"> 
@@ -64,14 +66,18 @@
       <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="express" />
     </a>
   </p>
----  
+  
+--- 
+
 <h2 align="center>Databases</h2>
   <p align="center">
     <a href="https://www.mysql.com" target="_blank">
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
     </a>
   </p>
+                                                                                                                     
 ---
+                                                                                                                     
 <h2 align="center>Cloud & Hosting</h2>
   <p align="center">
     <a href="https://firebase.google.com" target="_blank">
@@ -84,7 +90,9 @@
       <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
     </a>   
   </p>
----                                                                                                                     
+  
+---   
+
 <h2 align="center">Testing</h2>
   <p align="center">
   <a href="https://junit.org/junit5/" target="_blank"> 
@@ -94,7 +102,9 @@
     <img src="https://img.shields.io/badge/jest-907F7F.svg?style=for-the-badge&logo=jest&logoColor=white" alt="jest"/> 
   </a>
   </p>
-----
+  
+---
+
 <h2 align="center">Let's Connect!</h2>
 <p align="center">
   <a href="https://linkedin.com/in/jeremy-chee" target="_blank">
@@ -104,5 +114,7 @@
     <img src="https://img.shields.io/badge/codewars-B0361E.svg?style=for-the-badge&logo=codewars&logoColor=white" alt="example"/>
   </a>
 </p>
-----
+
+---
+
 <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="credit"/> 
