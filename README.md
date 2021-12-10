@@ -15,7 +15,7 @@
    
 ---
 
-<h2 align="center"><u><b>My Toolbox</b></u></h2>
+<h2 align="center"><u><b>Languages</b></u></h2>
 <h3 align="center">Frontend</h3>
   <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
