@@ -1,4 +1,4 @@
-<h2 align="center"> Hey friend <span><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></span> I'm Jeremy </h2>
+<h1 align="center"> Hey friend <span><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></span> I'm Jeremy </h1>
 <ul style="list-style-type:none">
    <li>🔭 I’m currently working on Frontend Web Development.</li>
    <li>🌱 I’m currently upskilling in React JS.</li>
