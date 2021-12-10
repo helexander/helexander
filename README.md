@@ -67,7 +67,7 @@
     </a>
   </p>
                                                                                                                      
-<h2 align="center>Cloud & Hosting</h2>
+<h2 align="center">Cloud & Hosting</h2>
   <p align="center">
     <a href="https://firebase.google.com" target="_blank">
       <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Google Firebase" />
@@ -79,8 +79,6 @@
       <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku"/>
     </a>   
   </p>
-  
----   
 
 <h2 align="center">Testing</h2>
   <p align="center">
@@ -104,6 +102,3 @@
   </a>
 </p>
 
----
-
-<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="credit"/> 
