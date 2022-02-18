@@ -1,7 +1,7 @@
 <h1 align="center"> Hey friend <span><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></span> I'm Jeremy </h1>
 <ul style="list-style-type:none">
    <li>🔭 I’m currently working on Frontend Web Development.</li>
-   <li>🌱 I’m currently upskilling in React JS and learning AWS.</li>
+   <li>🌱 I’m currently upskilling in React JS and TypeScript.</li>
    <li>👯 I’m looking to collaborate with Fullstack Web and iOS Developers.</li>
    <li>⚡ Fun fact: I'm a lefty ✋</li>
 </ul>
